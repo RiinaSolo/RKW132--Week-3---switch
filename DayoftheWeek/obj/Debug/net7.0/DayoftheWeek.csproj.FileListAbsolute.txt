@@ -1,0 +1,15 @@
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/DayoftheWeek.csproj.AssemblyReference.cache
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/DayoftheWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/DayoftheWeek.AssemblyInfoInputs.cache
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/DayoftheWeek.AssemblyInfo.cs
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/DayoftheWeek.csproj.CoreCompileInputs.cache
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/bin/Debug/net7.0/DayoftheWeek
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/bin/Debug/net7.0/DayoftheWeek.deps.json
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/bin/Debug/net7.0/DayoftheWeek.runtimeconfig.json
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/bin/Debug/net7.0/DayoftheWeek.dll
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/bin/Debug/net7.0/DayoftheWeek.pdb
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/DayoftheWeek.dll
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/refint/DayoftheWeek.dll
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/DayoftheWeek.pdb
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/DayoftheWeek.genruntimeconfig.cache
+/Users/riinasolomonova/Projects/Week3/DayoftheWeek/obj/Debug/net7.0/ref/DayoftheWeek.dll

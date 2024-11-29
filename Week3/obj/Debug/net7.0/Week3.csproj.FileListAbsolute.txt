@@ -1,0 +1,15 @@
+/Users/riinasolomonova/Projects/Week3/Week3/bin/Debug/net7.0/Week3
+/Users/riinasolomonova/Projects/Week3/Week3/bin/Debug/net7.0/Week3.deps.json
+/Users/riinasolomonova/Projects/Week3/Week3/bin/Debug/net7.0/Week3.runtimeconfig.json
+/Users/riinasolomonova/Projects/Week3/Week3/bin/Debug/net7.0/Week3.dll
+/Users/riinasolomonova/Projects/Week3/Week3/bin/Debug/net7.0/Week3.pdb
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/Week3.csproj.AssemblyReference.cache
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/Week3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/Week3.AssemblyInfoInputs.cache
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/Week3.AssemblyInfo.cs
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/Week3.csproj.CoreCompileInputs.cache
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/Week3.dll
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/refint/Week3.dll
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/Week3.pdb
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/Week3.genruntimeconfig.cache
+/Users/riinasolomonova/Projects/Week3/Week3/obj/Debug/net7.0/ref/Week3.dll
